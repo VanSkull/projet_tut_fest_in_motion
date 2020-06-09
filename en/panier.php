@@ -85,7 +85,11 @@
                     
                     <div id="traitgris"><hr></div>
                     <!-- Ligne horizontale -->
-                    
+                    <?php
+                        if(empty($_POST) && empty($_SESSION)){
+                            echo "<p style='color: #000000; margin: 15px;'>You did not reserve your seats for the festival.<br/>To reserve your seats, please return to the page <a href='inscription.php'>Registration</a></p>";
+                        }else{     
+                    ?>                    
                     <div class="place_enfant">
                         <div class="entete_place">
                             <img class="preview_ticket" src="../images/ticket_festinmotion.png" alt="Ticket Fest'In Motion" />
@@ -126,6 +130,9 @@
                                  ?></span></p>
                         </div>
                     </div>
+                    <?php    
+                        }
+                    ?>
                     
                 </div>
                 
