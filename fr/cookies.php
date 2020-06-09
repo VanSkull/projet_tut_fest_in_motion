@@ -64,7 +64,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Accueil</a> // Politique des cookies</span>
         
         </section>
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_cookies" class="titre_reglement">Politique des cookies</h2>
                 <p id="sous_titres_cookies">Par la présente politique des cookies, l’opérateur du site informe les visiteurs du site de l'utilisation faite des cookies ou des technologies de stockage similaires mises en place sur ce site.</p>
@@ -142,7 +142,7 @@
                     </p>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

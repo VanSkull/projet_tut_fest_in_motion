@@ -1761,7 +1761,7 @@ th:last-child{
 /*************************************/
 /* CACHE DE LA MARQUE 000webhost.com */
 /*************************************/
-body > div:last-child{
+body > div{
     visibility: hidden;
 }
 

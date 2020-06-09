@@ -62,7 +62,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Accueil</a> // F.A.Q.</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_faq">F.A.Q.</h2>
                 <p id="texte_p_faq">Retrouvez ci-dessous les questions pratiques à propos de nous et de notre festival.</p>
@@ -118,7 +118,7 @@
                     </div>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

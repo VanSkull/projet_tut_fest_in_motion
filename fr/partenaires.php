@@ -63,7 +63,7 @@
             <span id="chemin" class="item_pagep"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Accueil</a> // Partenaires</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page entete_partenaire">
                 <h2 id="titre_partenairesp">Partenaires</h2>
                 <p id="texte_p_partenaires">Retrouvez ci-dessous la liste de tous les bénévoles et partenaires qui nous ont aidés dans cette immense projet.</p>
@@ -182,7 +182,7 @@
                     </div>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

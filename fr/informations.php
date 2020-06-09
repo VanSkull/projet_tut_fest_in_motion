@@ -62,7 +62,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Accueil</a> // Informations</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_informations">Informations</h2>
                 <p id="texte_p_informations">Retrouvez ci-dessous toutes les informations (dates, horaires, stands, ...) à propos de notre festival.</p>
@@ -192,7 +192,7 @@
                     </div>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

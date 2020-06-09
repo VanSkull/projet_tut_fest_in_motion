@@ -63,14 +63,14 @@
             <button id="icon_menu_ouvert" onclick="deroule_menu();"><img src="../images/icon_menu_ouvert.png" alt="Icône menu déroulant" /></button>
         </header>
         
-       <section id="banniere">
+        <section id="banniere">
             <div id="photos_banniere">
                 <img src="../images/banniere.jpg" alt="Image banniere"  class="photo_baniere" />
             </div>
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Home</a> // Cart</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_panier">Cart</h2>
                 <p id="sous_titres_panier">Find below the summary of your order to attend the festival.</p>
@@ -177,7 +177,7 @@
                     
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

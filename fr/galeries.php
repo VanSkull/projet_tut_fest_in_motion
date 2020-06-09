@@ -62,7 +62,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Accueil</a> // Galerie</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_galeries">Galerie</h2>
                 <p id="texte_p_galeries">Retrouvez ci-dessous toutes les photos, vidéos, affiches, flyers et documents de nos festival.</p>
@@ -184,7 +184,7 @@
                    
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

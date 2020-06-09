@@ -63,7 +63,7 @@
             <span id="chemin" class="item_pagep"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Home</a> // Partners</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page entete_partenaire">
                 <h2 id="titre_partenairesp">Partners</h2>
                 <p id="texte_p_partenaires">Find below the list of all the volunteers and partners who helped us in this huge project.</p>
@@ -182,7 +182,7 @@
                     </div>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

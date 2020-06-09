@@ -62,7 +62,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Home</a> // Privacy policy</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_confidentialite" class="titre_reglement">Privacy policy</h2>
                 <p id="sous_titre_confidentialite">We use this privacy policy to inform you of the personal data we save when you use our site and the purposes for which it is used.</p>
@@ -229,7 +229,7 @@
                     </p>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

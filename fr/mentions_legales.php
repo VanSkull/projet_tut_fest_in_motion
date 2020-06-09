@@ -62,7 +62,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Accueil</a> // Mentions légales</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_mentions_legales" class="titre_reglement">Mentions légales</h2>
                 <p id="sous-titre-mention">Afin de respecter le travail de l'agence HORIZON, merci de créditer à l'aide d'un lien toute représentation ou reproduction intégrale ou partielle du site.</p>
@@ -153,7 +153,7 @@
                 </p>
             </section>
         
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

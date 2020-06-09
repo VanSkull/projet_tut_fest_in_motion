@@ -62,7 +62,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Home</a> // Legal notices</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_mentions_legales" class="titre_reglement">Legal notices</h2>
                 <p id="sous-titre-mention">In order to respect the work of the HORIZON agency, please credit with a link any representation or reproduction, in whole or in part, of the site.</p>
@@ -153,7 +153,7 @@
                 </p>
             </section>
         
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

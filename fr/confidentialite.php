@@ -62,7 +62,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Accueil</a> // Politique de confidentialité</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_confidentialite" class="titre_reglement">Politique de confidentialité</h2>
                 <p id="sous_titre_confidentialite">Nous utilisons cette politique de confidentialité pour vous informer des données personnelles que nous enregistrons lorsque vous utilisez notre site et des finalités pour lesquelles ces données sont utilisées.</p>
@@ -229,7 +229,7 @@
                     </p>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

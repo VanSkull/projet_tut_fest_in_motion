@@ -55,14 +55,14 @@
             <button id="icon_menu_ouvert" onclick="deroule_menu();"><img src="../images/icon_menu_ouvert.png" alt="Icône menu déroulant" /></button>
         </header>
         
-       <section id="banniere">
+        <section id="banniere">
             <div id="photos_banniere">
                 <img src="../images/banniere.jpg" alt="Image banniere"  class="photo_baniere" />
             </div>
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Accueil</a> // Inscription</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page titre_entete">
                 <h2 id="titre_inscription">Inscription</h2>
                 <p id="sous_titres_inscription">Inscrivez-vous pour nous rejoindre et assister au festival.</p>
@@ -107,7 +107,7 @@
                     </div>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

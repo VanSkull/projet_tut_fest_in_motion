@@ -64,7 +64,7 @@
             
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section id="entete" class="item_page">
                 <h2 id="titre_entete">Bienvenue au festival de Fest'In Motion</h2>
                 <p id="description_entete">Pour cette deuxième édition de Fest'In Motion, nous vous proposons des activités en plein air diverses et variées.<br/>
@@ -140,7 +140,7 @@
                     <img src="../images/logo_disney_store.png" alt="Logo Disney Store" id="partenaire5" />
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

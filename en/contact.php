@@ -64,7 +64,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Home</a> // Contact</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             <section class="item_page entete_contact">
                 <h2 id="titre_contact">Contact</h2>
                 <p>
@@ -129,7 +129,7 @@
                     </form>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">

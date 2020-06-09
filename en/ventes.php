@@ -62,7 +62,7 @@
             <span id="chemin" class="item_page"><a href="index.php"><img src="../images/home.png" alt="Icône accueil" id="icon_accueil"/> Home</a> // Terms of Sales</span>
         </section>
         
-        <div id="corps_page">
+        <section id="corps_page">
             
             <section class="item_page titre_entete">
                 <h2 id="titre_conditions_vente" class="titre_reglement">Terms of Sales</h2>
@@ -282,7 +282,7 @@
                     </p>
                 </div>
             </section>
-        </div>
+        </section>
         
         <footer>
             <div id="top_footer">
