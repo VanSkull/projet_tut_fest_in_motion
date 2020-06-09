@@ -134,8 +134,8 @@
                             <source src="../videos/PROMO.mp4" type="video/mp4">
                             Une erreur est survenue ! Il semblerait que votre navigateur ne puisse pas lire notre vidéo.
                         </video>
-                        <video class="videos" controls>
-                            <source src="../videos/video2.mp4" type="video/mp4">
+                        <video class="videos" controls poster="../images/videopresentation.PNG">
+                            <source src="../videos/videopresentation.mp4" type="video/mp4">
                             Une erreur est survenue ! Il semblerait que votre navigateur ne puisse pas lire notre vidéo.
                         </video>
                     </div>
