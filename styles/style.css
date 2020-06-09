@@ -1758,6 +1758,13 @@ th:last-child{
     text-align: justify;
 }
 
+/*************************************/
+/* CACHE DE LA MARQUE 000webhost.com */
+/*************************************/
+body > div:last-child{
+    visibility: hidden;
+}
+
 
 /******************************************************/
 /* MEDIA QUERIE RESPONSIVE POUR LES ECRANS DE -960px; */
