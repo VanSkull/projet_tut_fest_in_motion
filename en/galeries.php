@@ -176,6 +176,7 @@
                             </p>
                             <div class="lien_download">
                                 <a href="../documents/en/communique.pdf"><img class="icon_download" src="../images/fullscreen.png" alt="Icon aperçu" /></a>
+                                <a href="../documents/en/communique.pdf" download="press.pdf"><img class="icon_download" src="../images/download.png" alt="Icon téléchargement" /></a>
                             </div>
                         </div>
                         
